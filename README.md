@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ben 👋
 # 💫 About Me:
 👨‍🎓studying at Lancaster University<br>👨‍💻currently working on my own webpage
 
